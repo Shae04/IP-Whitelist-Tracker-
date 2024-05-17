@@ -24,7 +24,6 @@
 
 ## User Roles and Permissions:
         Users are assigned specific Application IDs they can manage.
-        User passwords are stored in text format for this exercise.
-## Two user roles:
+## Two roles:
             Admin: CRUD operations on application_info and user management; read-only access to server info.
             User: CRUD operations on server info for their assigned Application IDs.
